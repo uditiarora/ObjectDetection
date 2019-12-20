@@ -8,7 +8,7 @@ Refer to change_image.ipynb for images and change_video.ipynb for the videos.
 ![Input](./screenshots/image1.png)
 
 #### Full black and white image
-![Black and white](./screesnhots/image2.png)
+![Black and white](./screenshots/image2.png)
 
 #### Output
 ![Output](./screenshots/image3.png)
